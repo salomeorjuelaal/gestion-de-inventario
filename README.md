@@ -1,6 +1,6 @@
 # Gestión de Inventario
 
-Proyecto académico desarrollado por Salomé Orjuela Almeida para el programa de Análisis y Desarrollo de Software - SENA.
+Proyecto académico desarrollado por Salomé Orjuela Almeida  ADSO - SENA.
 
 ## Funciones principales
 - Inicio de sesión
